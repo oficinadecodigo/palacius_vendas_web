@@ -1,1 +1,3 @@
-# palacius_vendas_web
+# Palacius vendas WEB
+
+Sistema de pedidos para WEB
